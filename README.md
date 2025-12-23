@@ -1,2 +1,13 @@
-# python-daily-practice
-Daily Python practice starting from basics. Tracking my learning with small programs and regular commits.
+# Python Daily Practice
+
+This repository documents my daily Python learning journey starting from the basics.
+
+## Goal
+- Learn Python fundamentals properly
+- Build consistency with daily coding
+- Track progress publicly using GitHub
+
+## Progress
+- Day 1: Variables, input/output, basic arithmetic
+
+I will update this repository daily with small Python programs and notes.
