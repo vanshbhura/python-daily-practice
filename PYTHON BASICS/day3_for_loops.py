@@ -1,3 +1,4 @@
+# easy
 # Day 3: For Loops
 # Topics:
 # for loop, range(), repetition
