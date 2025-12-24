@@ -10,6 +10,8 @@ This repository documents my daily Python learning journey starting from the bas
 ## Progress
 - Day 1: Variables, input/output, basic arithmetic
 - Day 2: Conditional statements – if, elif, else
+-  Day 3: For loop and range()
+
 
 
 I will update this repository daily with small Python programs and notes.
