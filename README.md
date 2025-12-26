@@ -13,6 +13,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 3: For loop and range()
 - Day 4: While loop with break and continue
 - Day 5: Lists – creation, indexing, updating
+- Day 6: Tuple and set basics with examples
+
 
 
 
