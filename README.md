@@ -15,6 +15,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 5: Lists – creation, indexing, updating
 - Day 6: Tuple and set basics with examples
 - Day 7: Dictionaries – key-value pairs and basic operations
+- Day 8: Functions – parameters and return values
+
 
 
 
