@@ -20,6 +20,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 10: String basics and common methods
 - Day 11: List comprehension basics with examples
 - Day 12: Basic problem solving using loops and conditions
+- Day 13: Introduction to recursion with simple examples
+
 
 
 
