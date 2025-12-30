@@ -21,7 +21,9 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 11: List comprehension basics with examples
 - Day 12: Basic problem solving using loops and conditions
 - Day 13: Introduction to recursion with simple examples
-- Day 15: File handling – reading and writing files
+- Day 14: File handling – reading and writing files
+- Day 15: Exception handling using try and except
+
 
 
 
