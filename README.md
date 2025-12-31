@@ -25,6 +25,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 15: Exception handling using try and except
 - Day 16: Modules and importing custom modules
 - Day 17: Classes and objects – OOP basics
+- Day 18: Constructors and instance variables
+
 
 
 
