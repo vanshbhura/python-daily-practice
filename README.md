@@ -28,6 +28,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 18: Constructors and instance variables
 - Day 19: Inheritance – parent and child classes
 - Day 20: OOP practice with a real-life example
+- Day 21: Simple calculator using functions
+
 
 
 
