@@ -31,6 +31,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 21: Simple calculator using functions
 - Day 22: Number guessing game using loops and conditions
 - Day 23: Password strength checker using strings and conditions
+- Day 24: CLI-based to-do list using lists and functions
+
 
 
 
