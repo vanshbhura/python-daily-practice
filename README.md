@@ -30,6 +30,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 20: OOP practice with a real-life example
 - Day 21: Simple calculator using functions
 - Day 22: Number guessing game using loops and conditions
+- Day 23: Password strength checker using strings and conditions
+
 
 
 
