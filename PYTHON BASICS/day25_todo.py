@@ -1,5 +1,5 @@
-# Day 25 & 26: To-Do List (Refactored)
-# Day 26 focus: cleanup, validation, readability
+# Day 24 & 25: To-Do List (Refactored)
+# Day 25 focus: cleanup, validation, readability
 
 tasks = []
 
