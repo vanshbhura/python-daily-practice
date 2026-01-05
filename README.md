@@ -38,6 +38,10 @@ This repository documents my daily Python learning journey starting from the bas
 I successfully completed a 27-day Python learning challenge.
 This repository represents consistency, discipline, and strong fundamentals.
 
+### NumPy & Pandas Phase
+- Day 28: NumPy basics – arrays, shape, dtype, array creation
+
+
 
 
 
