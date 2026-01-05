@@ -34,6 +34,10 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 24: CLI-based to-do list using lists and functions
 - Day 25: Refactored to-do list with input validation
 - Day 26: Problem solving practice with basic logic questions
+- 27-Day Completion
+I successfully completed a 27-day Python learning challenge.
+This repository represents consistency, discipline, and strong fundamentals.
+
 
 
 
