@@ -33,6 +33,8 @@ This repository documents my daily Python learning journey starting from the bas
 - Day 23: Password strength checker using strings and conditions
 - Day 24: CLI-based to-do list using lists and functions
 - Day 25: Refactored to-do list with input validation
+- Day 26: Problem solving practice with basic logic questions
+
 
 
 
