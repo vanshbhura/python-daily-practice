@@ -40,6 +40,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 
 ### NumPy & Pandas Phase
 - Day 28: NumPy basics – arrays, shape, dtype, array creation
+- Day 29: NumPy indexing and slicing, boolean indexing, view vs copy
+
 
 
 
