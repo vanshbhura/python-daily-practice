@@ -43,6 +43,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 29: NumPy indexing and slicing, boolean indexing, view vs copy
 - Day 30: NumPy vectorized operations and broadcasting
 - Day 31: NumPy aggregations (sum, mean) and understanding axis
+- Day 32: NumPy reshaping, flatten vs ravel, stacking arrays
+
 
 
 
