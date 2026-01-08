@@ -42,6 +42,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 28: NumPy basics – arrays, shape, dtype, array creation
 - Day 29: NumPy indexing and slicing, boolean indexing, view vs copy
 - Day 30: NumPy vectorized operations and broadcasting
+- Day 31: NumPy aggregations (sum, mean) and understanding axis
+
 
 
 
