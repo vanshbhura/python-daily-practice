@@ -44,6 +44,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 30: NumPy vectorized operations and broadcasting
 - Day 31: NumPy aggregations (sum, mean) and understanding axis
 - Day 32: NumPy reshaping, flatten vs ravel, stacking arrays
+- Day 33: NumPy random number generation and basic statistics
+
 
 
 
