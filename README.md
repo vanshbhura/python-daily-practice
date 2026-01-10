@@ -46,6 +46,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 32: NumPy reshaping, flatten vs ravel, stacking arrays
 - Day 33: NumPy random number generation and basic statistics
 - Day 34: NumPy performance comparison and memory behavior (copy vs view)
+- Day 35: NumPy sorting, argsort, where, and conditional selection
+
 
 
 
