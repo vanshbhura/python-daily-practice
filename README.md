@@ -52,6 +52,7 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 38: NumPy revision, cleanup, and reinforcing core concepts
 - Day 39: Pandas basics – Series, DataFrame, head, info, describe
 - Day 40: Pandas indexing using loc, iloc, and boolean filtering
+- Day 41: Pandas data cleaning – handling missing values and type conversion
 
 
 
