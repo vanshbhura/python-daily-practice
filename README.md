@@ -51,6 +51,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 37: NumPy mini practice using real-style data
 - Day 38: NumPy revision, cleanup, and reinforcing core concepts
 - Day 39: Pandas basics – Series, DataFrame, head, info, describe
+- Day 40: Pandas indexing using loc, iloc, and boolean filtering
+
 
 
 
