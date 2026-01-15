@@ -54,6 +54,9 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 40: Pandas indexing using loc, iloc, and boolean filtering
 - Day 41: Pandas data cleaning – handling missing values and type conversion
 - Day 42: Pandas column creation, updates, and apply functions
+- Day 43: Pandas groupby and aggregations
+
+
 
 
 
