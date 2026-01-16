@@ -57,6 +57,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 43: Pandas groupby and aggregations
 - Day 44: Pandas sorting, ranking, and ordering data
 - Day 45: Pandas merging, joining, and concatenation
+- Day 46: Pandas date and time handling, resampling
+
 
 
 
