@@ -59,6 +59,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 45: Pandas merging, joining, and concatenation
 - Day 46: Pandas date and time handling, resampling
 - Day 47: Pandas file handling – reading and writing CSV/JSON
+- Day 48: Exploratory data analysis using Pandas
+
 
 
 
