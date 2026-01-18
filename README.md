@@ -61,6 +61,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 47: Pandas file handling – reading and writing CSV/JSON
 - Day 48: Exploratory data analysis using Pandas
 - Day 49: Pandas mini project – student performance analysis
+- Day 50: Refactored Pandas mini project for cleaner structure
+
 
 
 
