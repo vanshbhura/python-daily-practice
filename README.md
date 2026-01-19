@@ -62,6 +62,8 @@ This repository represents consistency, discipline, and strong fundamentals.
 - Day 48: Exploratory data analysis using Pandas
 - Day 49: Pandas mini project – student performance analysis
 - Day 50: Refactored Pandas mini project for cleaner structure
+- Day 51: Documented Pandas mini project and explained analysis steps
+
 
 
 
